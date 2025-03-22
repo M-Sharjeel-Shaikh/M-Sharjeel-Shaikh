@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-sharjeel-shaikh" alt="m-sharjeel-shaikh" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Sharjeel-Shaikh/M-Sharjeel-Shaikh](https://github.com/M-Sharjeel-Shaikh/M-Sharjeel-Shaikh)
 
