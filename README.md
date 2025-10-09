@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/M-Sharjeel-Shaikh/background-image/blob/master/github-header-image.png)](https://www.linkedin.com/in/msharjeelshaikh/)
 <h1 align="center">Hi 👋, I'm Muhammad Sharjeel</h1>
-<h3 align="center">A passionate Web & Mobile App developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg"/>
 
