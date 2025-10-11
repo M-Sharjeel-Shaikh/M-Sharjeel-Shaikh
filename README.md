@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/M-Sharjeel-Shaikh/background-image/blob/master/github-header-image.png)](https://www.linkedin.com/in/msharjeelshaikh/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGJtHmtGBc3bw/profile-displaybackgroundimage-shrink_200_800/B4DZmzC4.bJQAU-/0/1759645504274?e=2147483647&v=beta&t=KcnecFiiuFt-8QeClcWD5k4_DV-IFK5T-58THDIXkP4)](https://www.linkedin.com/in/msharjeelshaikh/)
 <h1 align="center">Hi 👋, I'm Muhammad Sharjeel</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
